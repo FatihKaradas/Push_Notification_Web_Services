@@ -1,0 +1,6 @@
+@FCMService_HostAddress = http://localhost:5237
+
+GET {{FCMService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

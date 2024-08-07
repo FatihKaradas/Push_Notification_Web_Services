@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WirSDsryG6hN4gMTO5sw18Fj+/4BcyFJByP2Mhbu+vY=",
+  "Source": "FCMService",
+  "BasePath": "_content/FCMService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
